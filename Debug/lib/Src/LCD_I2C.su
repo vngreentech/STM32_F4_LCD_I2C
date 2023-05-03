@@ -1,0 +1,12 @@
+../lib/Src/LCD_I2C.c:7:13:LCD_Delay	16	static
+../lib/Src/LCD_I2C.c:11:13:LCD_WriteI2C	32	static
+../lib/Src/LCD_I2C.c:44:6:LCD_Init	24	static
+../lib/Src/LCD_I2C.c:75:6:LCD_SetCursor	24	static
+../lib/Src/LCD_I2C.c:104:6:LCD_WriteChar	16	static
+../lib/Src/LCD_I2C.c:108:6:LCD_WriteString	16	static
+../lib/Src/LCD_I2C.c:112:6:LCD_Clear	16	static
+../lib/Src/LCD_I2C.c:117:6:LCD_ReturnHome	16	static
+../lib/Src/LCD_I2C.c:122:6:LCD_CursorOn	16	static
+../lib/Src/LCD_I2C.c:127:6:LCD_CursorOff	16	static
+../lib/Src/LCD_I2C.c:132:6:LCD_BlinkOn	16	static
+../lib/Src/LCD_I2C.c:137:6:LCD_BlinkOff	16	static

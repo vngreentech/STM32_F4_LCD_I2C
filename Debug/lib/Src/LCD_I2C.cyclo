@@ -1,0 +1,12 @@
+LCD_I2C.c:7:13:LCD_Delay	1
+LCD_I2C.c:11:13:LCD_WriteI2C	4
+LCD_I2C.c:44:6:LCD_Init	1
+LCD_I2C.c:75:6:LCD_SetCursor	7
+LCD_I2C.c:104:6:LCD_WriteChar	1
+LCD_I2C.c:108:6:LCD_WriteString	2
+LCD_I2C.c:112:6:LCD_Clear	1
+LCD_I2C.c:117:6:LCD_ReturnHome	1
+LCD_I2C.c:122:6:LCD_CursorOn	1
+LCD_I2C.c:127:6:LCD_CursorOff	1
+LCD_I2C.c:132:6:LCD_BlinkOn	1
+LCD_I2C.c:137:6:LCD_BlinkOff	1
